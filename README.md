@@ -1,17 +1,5 @@
 # Distraction-Tracker-Social-Media-
 # Distraction Leaf 🌿
-<div align="center">
--![Vercel](https://theregister.s3.amazonaws.com/production
-<p>![Chrome Web Store](https://img.shields.io/badge/Chrome-Web_Store</p>
-<p>![GitHub stars](https://img.shields.io/github/stars/Anwesha11111/Distraction-Tracker-Social-Media?style=shttps://github.com/Anwesha11111/distraction** is a privacy-first, nature-themed web app + browser extension that tracks your social media usage (Instagram, YouTube, Facebook, TikTok, X) with beautiful leafy visualizations.</p>
-<p>Watch your digital forest grow when you stay focused! 🌱</p>
-</div>
-<div align="center">
-
-![Accent Bar](paragraph-divider-15.png)
-
-</div>
-
 
 - **Real-time Tracking**: Monitors Instagram, YouTube, Facebook, TikTok, X via browser tabs
 - **Leafy Visuals**: Green leaves bloom when under limits, wilt when overused
@@ -167,7 +155,12 @@ MIT © Anwesha 2025
 Made with ❤️ for focused minds in Bengaluru 🌿
 #NoMoreScroll #GrowYourForest #DistractionLeaf
 ```
-
+<div align="center">
+<p>![Vercel](https://theregister.s3.amazonaws.com/production</p>
+<p>![Chrome Web Store](https://img.shields.io/badge/Chrome-Web_Store</p>
+<p>![GitHub stars](https://img.shields.io/github/stars/Anwesha11111/Distraction-Tracker-Social-Media?style=shttps://github.com/Anwesha11111/distraction** is a privacy-first, nature-themed web app + browser extension that tracks your social media usage (Instagram, YouTube, Facebook, TikTok, X) with beautiful leafy visualizations.</p>
+<p>Watch your digital forest grow when you stay focused! 🌱</p>
+</div>
 ## 🙏 Acknowledgments
 
 - (https://ui.shadcn.com) - Beautiful components

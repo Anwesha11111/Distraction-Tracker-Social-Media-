@@ -8,7 +8,7 @@ Watch your digital forest grow when you stay focused! 🌱
 
 <div align="center">
 
-![Accent Bar](https://via.placeholder.com/1000x8/228B22/90EE90?text=)
+![Accent Bar](paragraph-divider-15.png)
 
 </div>
 
@@ -52,13 +52,12 @@ vercel --prod
 </div>
 
 **Extension Install**: Load `extension/` folder in `chrome://extensions/` (Developer mode)
-
+<div align="center">
 ## 📱 Screenshots
-![Hero Image](screenshots/hero-dashboard.png)
-![Dashboard](screenshots/dashboard.png)
-![Insights](screenshots/insights.png)
-![Alerts](screenshots/alerts.png)
-
+![Hero Image](1.png)
+![Dashboard](2.png)
+![Alerts](3.png)
+</div>
 
 | Dashboard | Insights | Alerts |
 |-----------|----------|--------|

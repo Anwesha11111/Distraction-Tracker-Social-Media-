@@ -1,9 +1,9 @@
 # Distraction-Tracker-Social-Media-
 # Distraction Leaf 🌿
 <div align="center">
-[![Vercel](https://theregister.s3.amazonaws.com/production
-![Chrome Web Store](https://img.shields.io/badge/Chrome-Web_Store
-![GitHub stars](https://img.shields.io/github/stars/Anwesha11111/Distraction-Tracker-Social-Media?style=shttps://github.com/Anwesha11111/distraction** is a privacy-first, nature-themed web app + browser extension that tracks your social media usage (Instagram, YouTube, Facebook, TikTok, X) with beautiful leafy visualizations.
+-![Vercel](https://theregister.s3.amazonaws.com/production
+-![Chrome Web Store](https://img.shields.io/badge/Chrome-Web_Store
+-![GitHub stars](https://img.shields.io/github/stars/Anwesha11111/Distraction-Tracker-Social-Media?style=shttps://github.com/Anwesha11111/distraction** is a privacy-first, nature-themed web app + browser extension that tracks your social media usage (Instagram, YouTube, Facebook, TikTok, X) with beautiful leafy visualizations.
 Watch your digital forest grow when you stay focused! 🌱
 </div>
 <div align="center">
@@ -52,8 +52,9 @@ vercel --prod
 </div>
 
 **Extension Install**: Load `extension/` folder in `chrome://extensions/` (Developer mode)
-<div align="center">
 ## 📱 Screenshots
+<div align="center">
+
 ![Hero Image](1.png)
 ![Dashboard](2.png)
 ![Alerts](3.png)

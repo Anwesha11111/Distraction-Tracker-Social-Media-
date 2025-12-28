@@ -1,11 +1,11 @@
 # Distraction-Tracker-Social-Media-
 # Distraction Leaf 🌿
-
+<div align="center">
 [![Vercel](https://theregister.s3.amazonaws.com/production
 ![Chrome Web Store](https://img.shields.io/badge/Chrome-Web_Store
 ![GitHub stars](https://img.shields.io/github/stars/Anwesha11111/Distraction-Tracker-Social-Media?style=shttps://github.com/Anwesha11111/distraction** is a privacy-first, nature-themed web app + browser extension that tracks your social media usage (Instagram, YouTube, Facebook, TikTok, X) with beautiful leafy visualizations.
 Watch your digital forest grow when you stay focused! 🌱
-
+</div>
 <div align="center">
 
 ![Accent Bar](paragraph-divider-15.png)
@@ -47,7 +47,7 @@ vercel --prod
 ```
 <div align="center">
 
-![Accent Bar](https://via.placeholder.com/1000x8/228B22/90EE90?text=)
+![Accent Bar](paragraph-divider-15.png)
 
 </div>
 
@@ -72,7 +72,7 @@ Fonts: Playfair Display (headings) + Inter (body)
 ```
 <div align="center">
 
-![Accent Bar](https://via.placeholder.com/1000x8/228B22/90EE90?text=)
+![Accent Bar](paragraph-divider-15.png)
 
 </div>
 
@@ -92,9 +92,9 @@ graph TD
 **Accuracy**: 95% via visibility API + tab heuristics. Daily reset at midnight IST.
 <div align="center">
 
-![Accent Bar](https://via.placeholder.com/1000x8/228B22/90EE90?text=)
+![Accent Bar](paragraph-divider-15.png)
 
-</div>
+</div>>
 
 ## 🔗 Account Linking (Optional)
 
@@ -105,7 +105,11 @@ graph TD
 | Facebook | Graph API | Basic profile |
 
 OAuth via NextAuth.js. Fallback: Manual domain tracking.
+<div align="center">
 
+![Accent Bar](paragraph-divider-15.png)
+
+</div>
 ## ⚙️ Customization
 
 ```json
@@ -129,7 +133,11 @@ OAuth via NextAuth.js. Fallback: Manual domain tracking.
 | Instagram | 24m ✅ | 35m | |
 | YouTube | 45m ⚠️ | 1h 10m | |
 | Distraction Score | 72/100 | 68 | |
+<div align="center">
 
+![Accent Bar](paragraph-divider-15.png)
+
+</div>
 ## 🌿 For Your Portfolio
 
 - **Hackathon Ready**: Under 200 lines core logic
@@ -143,7 +151,11 @@ OAuth via NextAuth.js. Fallback: Manual domain tracking.
 2. Create feature branch (`git checkout -b feature/leaf-animation`)
 3. Commit changes (`git commit -m 'Add leaf particle system'`)
 4. Push & PR
+<div align="center">
 
+![Accent Bar](paragraph-divider-15.png)
+
+</div>
 **Good First Issues**: [Link to GitHub issues]
 
 ## 📄 License

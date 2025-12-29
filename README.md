@@ -168,11 +168,10 @@ Made with ❤️ for focused minds in Bengaluru 🌿
 - (https://github.com/Anwesha11111) - Brainrot Blocker inspiration
 
 ***
+**Deploy your own: [vercel.com/new](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/distraction-leaf)**
+
+[1](https://chromewebstore.google.com/detail/social-media-time-tracker/oiaogfbphoofeedadbfnplnbomimapgi)
 <div align="center">
     End
 <img src="distraction tracker app/paragraph-divider-15.png">
 </div>
-
-**Deploy your own: [vercel.com/new](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/distraction-leaf)**[1]
-
-[1](https://chromewebstore.google.com/detail/social-media-time-tracker/oiaogfbphoofeedadbfnplnbomimapgi)

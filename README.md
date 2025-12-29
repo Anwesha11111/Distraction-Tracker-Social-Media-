@@ -35,7 +35,7 @@ vercel --prod
 ```
 <div align="center">
 
-![Accent Bar](paragraph-divider-15.png)
+<img src="distraction tracker app/paragraph-divider-15.png">
 
 </div>
 
@@ -43,9 +43,9 @@ vercel --prod
 ## 📱 Screenshots
 <div align="center">
 
-![Hero Image](1.png)
-![Dashboard](2.png)
-![Alerts](3.png)
+<img src="distraction tracker app/1.png">
+<img src="distraction tracker app/2.png">
+<img src="distraction tracker app/3.png">
 </div>
 
 | Dashboard | Insights | Alerts |
@@ -61,7 +61,7 @@ Fonts: Playfair Display (headings) + Inter (body)
 ```
 <div align="center">
 
-![Accent Bar](paragraph-divider-15.png)
+<img src="distraction tracker app/paragraph-divider-15.png">
 
 </div>
 
@@ -81,7 +81,7 @@ graph TD
 **Accuracy**: 95% via visibility API + tab heuristics. Daily reset at midnight IST.
 <div align="center">
 
-![Accent Bar](paragraph-divider-15.png)
+<img src="distraction tracker app/paragraph-divider-15.png">
 
 </div>>
 
@@ -96,7 +96,7 @@ graph TD
 OAuth via NextAuth.js. Fallback: Manual domain tracking.
 <div align="center">
 
-![Accent Bar](paragraph-divider-15.png)
+<img src="distraction tracker app/paragraph-divider-15.png">
 
 </div>
 ## ⚙️ Customization
@@ -124,7 +124,7 @@ OAuth via NextAuth.js. Fallback: Manual domain tracking.
 | Distraction Score | 72/100 | 68 | |
 <div align="center">
 
-![Accent Bar](paragraph-divider-15.png)
+<img src="distraction tracker app/paragraph-divider-15.png">
 
 </div>
 ## 🌿 For Your Portfolio
@@ -142,7 +142,7 @@ OAuth via NextAuth.js. Fallback: Manual domain tracking.
 4. Push & PR
 <div align="center">
 
-![Accent Bar](paragraph-divider-15.png)
+<img src="distraction tracker app/paragraph-divider-15.png">
 
 </div>
 **Good First Issues**: [Link to GitHub issues]
@@ -168,6 +168,10 @@ Made with ❤️ for focused minds in Bengaluru 🌿
 - (https://github.com/Anwesha11111) - Brainrot Blocker inspiration
 
 ***
+<div align="center">
+    End
+<img src="distraction tracker app/paragraph-divider-15.png">
+</div>
 
 **Deploy your own: [vercel.com/new](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/distraction-leaf)**[1]
 
